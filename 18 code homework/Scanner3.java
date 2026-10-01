@@ -1,7 +1,7 @@
 //Write a Java program using Scanner that takes three numbers from the user and finds:
 
 //The largest number
-//The smallest number
+
 
 import java.util.Scanner;
 

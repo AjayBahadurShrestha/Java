@@ -13,8 +13,12 @@ class array1{
 
 		for (int i=0;i<a.length;i++){
 			System.out.println(a[i]);
-
-			
+		}
+		System.out.println();
+	
+		
+		for (int b:a){
+			System.out.println(b);
 		}
 		
 	

@@ -7,6 +7,13 @@ class Person{
 		this.age= age;
 		this.id= id;
 	}
+	{
+		System.out.println("Object Created");
+	}
+	
+	static{
+		System.out.println("Static block is here");
+	}
 	
 	public void display(){
 		System.out.println("Name: "+this.name);
